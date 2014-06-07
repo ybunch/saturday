@@ -1,0 +1,5 @@
+graph G
+{
+    "html" -- "head";
+    "html" -- "body";
+}
